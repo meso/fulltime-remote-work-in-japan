@@ -11,6 +11,7 @@
 | 会社名 | URL | 対象者 | 海外在住OKか | 備考 |
 | --- | --- | --- | --- | --- |
 | ソニックガーデン | [会社サイト](https://www.sonicgarden.jp/remotework) | 全社員 | 不明 | |
+| RevComm | [Note](https://note.com/revcomm_miitel/n/n9e463cfb5765) | 原則全社員 | OK | |
 | SO Techonologies | [プレスリリース](https://www.sold-out.co.jp/soulofsoldout/other/20200528) | 原則全社員 | 不明 | |
 | GMOペパボ | [プレスリリース](https://pepabo.com/news/press/202006011200) | 原則全社員 | 海外を対象にするかは検討中 | |
 | ドワンゴ | [プレスリリース](https://dwango.co.jp/news/5357000699040917015/) | 原則全社員 | 不明 | |
